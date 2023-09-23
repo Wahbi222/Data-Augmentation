@@ -12,4 +12,5 @@ The steps are:
 4. Visualize some images while comparing with the original image ( 10 visualizations)
 5. Visualize the histograms of original and some resulting images
 6. Apply a binary classifier on your data. Report the results.
+
 The purpose is to not use built-in functions
